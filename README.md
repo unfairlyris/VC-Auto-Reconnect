@@ -9,24 +9,6 @@
 
 ---
 
-## 📑 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Technical Architecture](#technical-architecture)
-- [Compatibility](#compatibility)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [How It Works](#how-it-works)
-- [Design Principles](#design-principles)
-- [Security Considerations](#security-considerations)
-- [Limitations](#limitations)
-- [Troubleshooting](#troubleshooting)
-- [Development Guide](#development-guide)
-- [Contributing](#contributing)
-- [License](#license)
-
----
-
 ## 🧭 Overview
 **VC Auto Reconnect** is a highly focused BetterDiscord plugin designed to automatically reconnect a user to a predetermined Discord voice channel using its Channel ID.
 
